@@ -12,11 +12,11 @@ a,
 .theme-color,
 .mm-column li.mm-header > a,
 .mm-column li:not(.mm-header) a:hover {
-  color:#9900cc;
+  color:#7e59b3;
 }
 
 .theme-main {
-  background: #9900cc;
+  background: #7e59b3;
 }
 
 
@@ -25,9 +25,9 @@ a,
 .theme-after:after,
 .btn-theme,
 .theme-bg {
-    background-image: -moz-linear-gradient(0deg, #9900cc 0%, #c461e5 100%);
-    background-image: -webkit-linear-gradient(0deg, #9900cc 0%, #c461e5 100%);
-    background-image: -ms-linear-gradient(0deg, #9900cc 0%, #c461e5 100%);
+    background-image: -moz-linear-gradient(0deg, #7e59b3 0%, #824895 100%);
+    background-image: -webkit-linear-gradient(0deg, #7e59b3 0%, #824895 100%);
+    background-image: -ms-linear-gradient(0deg, #7e59b3 0%, #824895 100%);
 }
 
 
@@ -36,11 +36,11 @@ a,
 .theme-2nd-before:before,
 .theme-2nd,
 .btn-theme-2nd {
-  background: #9900cc;
+  background: #7e59b3;
 }
 
 .theme-2nd-color {
-  color: #9900cc;
+  color: #7e59b3;
 }
 
 .theme-main.icon-s,
